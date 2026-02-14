@@ -1,0 +1,4 @@
+Timestamp,Member_No,Risk_Level,Category,KB_Found,Summary
+2026-02-14T22:57:21.110328,CUST_002,Critical,Technical,True,"System Outage with Error 500, affecting business deal"
+2026-02-15T00:47:32.002269,CUST_002,Critical,Technical,True,"Enterprise Customer experiencing Error 500, risk of losing deal"
+2026-02-15T00:47:51.249561,CUST_003,High,Technical,True,"Pro customer experiencing Error 500, potential deal loss, customer dissatisfaction."
